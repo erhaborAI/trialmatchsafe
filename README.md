@@ -1,16 +1,16 @@
 # TrialMatchSafe
 
-## Safety-Aware Clinical Trial Matching with Uncertainty and Escalation
-A safety-aware clinical AI system for trial eligibility screening with uncertainty handling and escalation logic.
+## Safety-Aware Clinical Trial Matching with Safety-Gated Decision Logic
 
-▶Live Demo
-[Launch TrialMatchSafe App](https://trialmatchsafe-83zrhv9wghad7oaz4zvnb.streamlit.app)
+A safety-aware clinical system for trial eligibility screening that explicitly models uncertainty, missing information, and escalation in high-stakes decisions.
+
+## ▶ Live Demo: [Open Live Demo]
 
 Explore how safety constraints change clinical eligibility decisions in real time.
 
-TrialMatchSafe is a prototype clinical AI system for safety-aware trial eligibility screening. It reframes trial matching as a safety-sensitive decision problem, rather than a simple text classification task.
+TrialMatchSafe is a prototype clinical system for safety-aware trial eligibility screening. It reframes trial matching from a binary classification task into a safety-sensitive decision problem under uncertainty.
 
-The system separates baseline eligibility logic from a safety-gated decision layer that explicitly accounts for uncertainty, missing information, and exclusion risk.
+The system separates baseline eligibility logic from a safety-gated decision layer that explicitly accounts for uncertainty, missing information, and clinically relevant exclusion risk.
 
 ---
 
