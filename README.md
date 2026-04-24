@@ -7,7 +7,7 @@ A safety-aware clinical AI system for trial eligibility screening that explicitl
 ---
 
 ## Live Demo
-[Launch Interactive Demo](https://trialmatchsafe-83zrhv9wghad7oaz4zvnb.streamlit.app)
+[Launch Interactive Demo](https://trialmatchsafe-83zrhv9wghad7oaz4zvnb.streamlit.app/)
 
 Explore how safety constraints reshape clinical eligibility decisions under uncertainty.
 
