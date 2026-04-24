@@ -86,10 +86,16 @@ For each case, the system provides:
 - Structured interpretation of system behavior
 
 ---
-
 ## Running the App
 
 ### Requirements
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Launch
+
+```bash
+streamlit run app.py
+```
