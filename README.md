@@ -4,13 +4,12 @@
 
 A safety-aware clinical system for trial eligibility screening that explicitly models uncertainty, missing information, and escalation in high-stakes decisions.
 
-▶ [Open Live Demo](https://safe-triage-clinical-ai-6crggxq8gtkajbkzg6m2m.streamlit.app)
-
-Explore how safety constraints change clinical eligibility decisions in real time.
+[Open Live Demo](https://safe-triage-clinical-ai-6crggxq8gtkajbkzg6m2m.streamlit.app)
 
 TrialMatchSafe is a prototype clinical system for safety-aware trial eligibility screening. It reframes trial matching from a binary classification task into a safety-sensitive decision problem under uncertainty.
 
 The system separates baseline eligibility logic from a safety-gated decision layer that explicitly accounts for uncertainty, missing information, and clinically relevant exclusion risk.
+
 
 ---
 
