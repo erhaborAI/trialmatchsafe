@@ -4,6 +4,7 @@
 
 A safety-aware clinical system for trial eligibility screening that explicitly models uncertainty, missing information, and escalation in high-stakes decisions.
 
+## Live Demo
 [Open Live Demo](https://trialmatchsafe-83zrhvy9wghad7oaz4zvnb.streamlit.app/)
 
 ## Project Brief
