@@ -4,7 +4,7 @@
 
 A safety-aware clinical system for trial eligibility screening that explicitly models uncertainty, missing information, and escalation in high-stakes decisions.
 
-## ▶ Live Demo: [Open Live Demo]
+▶ [Open Live Demo](https://safe-triage-clinical-ai-6crggxq8gtkajbkzg6m2m.streamlit.app)
 
 Explore how safety constraints change clinical eligibility decisions in real time.
 
