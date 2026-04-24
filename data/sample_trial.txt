@@ -1,0 +1,11 @@
+Inclusion Criteria:
+- Age 18 to 75 years
+- Diagnosis of type 2 diabetes
+- HbA1c greater than 7.0%
+- eGFR greater than 60
+
+Exclusion Criteria:
+- History of stroke
+- Current enrollment in another interventional clinical trial
+- eGFR less than 45
+- Pregnancy
